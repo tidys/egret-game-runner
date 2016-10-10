@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="GuideLayerSkin" width="960" height="540" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image id="bg" x="0" y="0" source="map1_png"/>
+
+
+
+
+
+	<e:Image id="jumpBtn" source="btn_jump02_png" x="27" y="30" touchEnabled="true"/>
+	<e:Image source="ui_sBubble02_png" x="21" y="118" touchEnabled="false"/>
+	<e:Label id="word" text="标签" x="49" y="306" width="750" height="147" bold="true" textColor="0x6e5932"/>
+	<e:Label text="点击屏幕继续&gt;&gt;" x="726" y="478" touchEnabled="false" textColor="0xccb07e" bold="true"/>
+</e:Skin>

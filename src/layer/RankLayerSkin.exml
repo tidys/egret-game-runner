@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="RankLayerSkin" width="960" height="540" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" xmlns:ns1="*">
+	<e:Image x="0" y="0" source="map1_png"/>
+	<e:Rect left="0" top="0" right="0" bottom="0" fillAlpha="0.2"/>
+
+
+
+
+
+
+
+
+	<e:Image id="closeBtn" source="btn_return01_png" x="28" y="18"/>
+	<e:Image id="bg" source="ui_listBg_png" y="66" scale9Grid="37,188,4,4" width="582" horizontalCenter="0" height="430"/>
+	<e:Image id="top" source="ui_common03_png" y="59" horizontalCenter="0.5" scale9Grid="289,2,1,14" width="596"/>
+	<e:Image id="bottom" source="ui_common04_png" y="488" horizontalCenter="0" scale9Grid="260,5,18,1" width="597"/>
+	<ns1:RankItem id="selfRank" y="419" skinName="RankItemSkin" horizontalCenter="0"/>
+	<e:Scroller width="530" height="294" y="113" horizontalCenter="0">
+		<e:Group id="group">
+		<e:layout>
+			<e:VerticalLayout/>
+		</e:layout>
+		</e:Group>
+	</e:Scroller>
+	<e:Image id="title" source="font_rankList_png" y="80" horizontalCenter="0"/>
+</e:Skin>

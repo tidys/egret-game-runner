@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="DescLayerSkin" width="960" height="540" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Rect left="0" top="0" right="0" bottom="0" fillAlpha="0.2"/>
+	<e:Image source="ui_gRules_png" y="54" scale9Grid="232,179,16,35" width="544" horizontalCenter="0" height="462"/>
+
+
+
+	<e:Label id="word" text="标签" x="246" y="141" width="460" height="303" textColor="0x000000" bold="true"/>
+	<e:Label text="游戏规则" y="85" horizontalCenter="-0" textColor="0x000000" bold="true"/>
+	<e:Image id="closeBtn" source="btn_enter_png" x="370" y="441"/>
+</e:Skin>

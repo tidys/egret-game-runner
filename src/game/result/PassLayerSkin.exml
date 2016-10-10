@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="PassLayerSkin" width="960" height="540" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="map2_png" x="0" y="0"/>
+	<e:Rect fillAlpha="0.4" left="0" top="0" right="0" bottom="0"/>
+	<e:Image id="light" source="ui_light02_png" y="136" anchorOffsetX="161" anchorOffsetY="158" x="486" rotation="0"/>
+	<e:Image source="ui_clearing_png" y="129" width="604" horizontalCenter="0" height="236"/>
+
+
+	<e:Label id="answerLabel" text="共答对15题, 耗时3分钟" y="159" horizontalCenter="0.5" textColor="0x000000"/>
+	<e:Label id="scoreLabel" text="本次获得10积分" y="200" horizontalCenter="0" textColor="0x000000"/>
+
+
+
+
+	<e:Image source="font_qualified_png" x="352" y="26"/>
+	<e:Image id="hegeIcon" x="606" y="290" source="ui_qualified_png"/>
+	<e:Image id="titleIcon" source="icon_gName05_png" y="256" horizontalCenter="0.5"/>
+	<e:Image id="shareBtn" source="btn_letKnow_png" x="615" y="423"/>
+	<e:Image id="home" source="btn_home_png" y="423" horizontalCenter="0"/>
+	<e:Image id="replayBtn" source="btn_again_png" x="153" y="423"/>
+</e:Skin>

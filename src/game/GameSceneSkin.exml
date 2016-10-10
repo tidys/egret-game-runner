@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="GameSceneSkin" width="9960" height="540" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<e:Group id="map" width="200" height="200" x="0" y="0">
+		<e:Image id="bg1" x="0" y="0" width="1100" height="542" source="map2_png"/>
+		<e:Image id="bg2" x="1100" y="0" width="1100" height="542" source="map3_png"/>
+
+
+
+
+
+
+
+	</e:Group>
+	<e:Group id="ui" width="200" height="200" x="0" y="0">
+		<e:Image id="setBtn" x="16" y="18" source="btn_menu_png"/>
+		<e:Image id="jumpBtn" x="897" y="467" source="btn_jump_png" anchorOffsetX="64" anchorOffsetY="63"/>
+		<e:Image id="timeBg" source="icon_parkour04_png" x="561" y="14" scale9Grid="136,12,8,12" width="356"/>
+
+
+		<e:Label id="timeLabel" text="用时: 0/30s    答对:0/00 答错:0" x="562" y="23" size="20" touchEnabled="false" bold="true" width="352" textAlign="left" textColor="0xfcfbfb"/>
+		<e:Image id="ctrlBtn" x="10" y="365" source="btn_move_png"/>
+		<e:Label id="dati" text="答题" x="767" y="76" textColor="0x000000" bold="true" visible="false"/>
+		<e:Label id="chenggong" text="闯关成功" x="767" y="115" textColor="0x000000" bold="true" visible="false"/>
+		<e:Label id="shibai" text="闯关失败" x="767" y="152" textColor="0x000000" bold="true" visible="false"/>
+
+	</e:Group>
+</e:Skin>

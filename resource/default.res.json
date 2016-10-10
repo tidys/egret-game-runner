@@ -1,0 +1,387 @@
+{
+	"groups": [
+		{
+			"keys": "map1_png,Circle2_png,bg_mp3,btnClick_mp3,ui_sBubble02_png,btn_jump02_png,map3_png",
+			"name": "preload"
+		},
+		{
+			"keys": "item3_png,item2_png,item1_png,icon_gName05_png,icon_gName04_png,icon_gName03_png,icon_gName02_png,icon_gName_png,tipsWord_json,map2_png,lose_mp3,que_mp3,rush_mp3,win_mp3,ui_topic_png,btn_choseA_png,btn_choseB_png,btn_choseC_png,btn_choseD_png,ui_right_png,ui_wrong_png,ui_qualified_png,ui_fail_png,ui_common02_png,font_fail_png,font_qualified_png,btn_move_png,btn_jump_png",
+			"name": "game"
+		},
+		{
+			"keys": "ui_common02_png,ui_common01_png,Tips_png,roundthumb_png,icon_no.03_png,icon_no.02_png,icon_no.01_png,ui_gRules_png",
+			"name": "home"
+		},
+		{
+			"keys": "girlAni_json,textureGirl_json,boyAni_json,textureBoy_json,textureBoy_png,textureGirl_png",
+			"name": "selectRole"
+		}
+	],
+	"resources": [
+		{
+			"url": "game/ui/roundthumb.png",
+			"type": "image",
+			"name": "roundthumb_png"
+		},
+		{
+			"url": "game/ui/Tips.png",
+			"type": "image",
+			"name": "Tips_png"
+		},
+		{
+			"url": "game/item/item2.png",
+			"type": "image",
+			"name": "item2_png"
+		},
+		{
+			"url": "game/item/item3.png",
+			"type": "image",
+			"name": "item3_png"
+		},
+		{
+			"url": "game/item/item1.png",
+			"type": "image",
+			"name": "item1_png"
+		},
+		{
+			"url": "game/ui/icon_parkour04.png",
+			"type": "image",
+			"name": "icon_parkour04_png"
+		},
+		{
+			"url": "game/ui/logo.png",
+			"type": "image",
+			"name": "logo_png"
+		},
+		{
+			"url": "game/ui/ui_common01.png",
+			"type": "image",
+			"name": "ui_common01_png"
+		},
+		{
+			"url": "game/ui/ui_common02.png",
+			"type": "image",
+			"name": "ui_common02_png"
+		},
+		{
+			"url": "game/ui/ui_common03.png",
+			"type": "image",
+			"name": "ui_common03_png"
+		},
+		{
+			"url": "game/ui/ui_common04.png",
+			"type": "image",
+			"name": "ui_common04_png"
+		},
+		{
+			"url": "game/ui/ui_light.png",
+			"type": "image",
+			"name": "ui_light_png"
+		},
+		{
+			"url": "game/ui/ui_listBg.png",
+			"type": "image",
+			"name": "ui_listBg_png"
+		},
+		{
+			"url": "game/ui/ui_right.png",
+			"type": "image",
+			"name": "ui_right_png"
+		},
+		{
+			"url": "game/ui/ui_topic.png",
+			"type": "image",
+			"name": "ui_topic_png"
+		},
+		{
+			"url": "game/ui/ui_wrong.png",
+			"type": "image",
+			"name": "ui_wrong_png"
+		},
+		{
+			"url": "game/ui/btn_begin.png",
+			"type": "image",
+			"name": "btn_begin_png"
+		},
+		{
+			"url": "game/ui/btn_choseA.png",
+			"type": "image",
+			"name": "btn_choseA_png"
+		},
+		{
+			"url": "game/ui/btn_choseB.png",
+			"type": "image",
+			"name": "btn_choseB_png"
+		},
+		{
+			"url": "game/ui/btn_choseC.png",
+			"type": "image",
+			"name": "btn_choseC_png"
+		},
+		{
+			"url": "game/ui/btn_choseD.png",
+			"type": "image",
+			"name": "btn_choseD_png"
+		},
+		{
+			"url": "game/ui/btn_play.png",
+			"type": "image",
+			"name": "btn_play_png"
+		},
+		{
+			"url": "game/ui/btn_rankList.png",
+			"type": "image",
+			"name": "btn_rankList_png"
+		},
+		{
+			"url": "game/ui/btn_return01.png",
+			"type": "image",
+			"name": "btn_return01_png"
+		},
+		{
+			"url": "game/ui/btn_state.png",
+			"type": "image",
+			"name": "btn_state_png"
+		},
+		{
+			"url": "game/ui/font_rankList.png",
+			"type": "image",
+			"name": "font_rankList_png"
+		},
+		{
+			"url": "game/ui/icon_no.01.png",
+			"type": "image",
+			"name": "icon_no.01_png"
+		},
+		{
+			"url": "game/ui/icon_no.02.png",
+			"type": "image",
+			"name": "icon_no.02_png"
+		},
+		{
+			"url": "game/ui/icon_no.03.png",
+			"type": "image",
+			"name": "icon_no.03_png"
+		},
+		{
+			"url": "game/ui/btn_menu.png",
+			"type": "image",
+			"name": "btn_menu_png"
+		},
+		{
+			"url": "game/girl.png",
+			"type": "image",
+			"name": "girl_png"
+		},
+		{
+			"url": "game/ui/ui_gRules.png",
+			"type": "image",
+			"name": "ui_gRules_png"
+		},
+		{
+			"url": "game/ui/btn_enter.png",
+			"type": "image",
+			"name": "btn_enter_png"
+		},
+		{
+			"url": "game/json/tipsWord.json",
+			"type": "json",
+			"name": "tipsWord_json"
+		},
+		{
+			"url": "game/ui/ui_fail.png",
+			"type": "image",
+			"name": "ui_fail_png"
+		},
+		{
+			"url": "game/ui/ui_qualified.png",
+			"type": "image",
+			"name": "ui_qualified_png"
+		},
+		{
+			"url": "game/ui/font_qualified.png",
+			"type": "image",
+			"name": "font_qualified_png"
+		},
+		{
+			"url": "game/ui/font_fail.png",
+			"type": "image",
+			"name": "font_fail_png"
+		},
+		{
+			"url": "game/ui/btn_letKnow.png",
+			"type": "image",
+			"name": "btn_letKnow_png"
+		},
+		{
+			"url": "game/ui/btn_home.png",
+			"type": "image",
+			"name": "btn_home_png"
+		},
+		{
+			"url": "game/title/icon_gName05.png",
+			"type": "image",
+			"name": "icon_gName05_png"
+		},
+		{
+			"url": "game/title/icon_gName.png",
+			"type": "image",
+			"name": "icon_gName_png"
+		},
+		{
+			"url": "game/title/icon_gName02.png",
+			"type": "image",
+			"name": "icon_gName02_png"
+		},
+		{
+			"url": "game/title/icon_gName03.png",
+			"type": "image",
+			"name": "icon_gName03_png"
+		},
+		{
+			"url": "game/title/icon_gName04.png",
+			"type": "image",
+			"name": "icon_gName04_png"
+		},
+		{
+			"url": "game/ui/btn_jump.png",
+			"type": "image",
+			"name": "btn_jump_png"
+		},
+		{
+			"url": "game/ui/btn_move.png",
+			"type": "image",
+			"name": "btn_move_png"
+		},
+		{
+			"url": "game/ui/btn_again.png",
+			"type": "image",
+			"name": "btn_again_png"
+		},
+		{
+			"url": "game/ui/ui_clearing.png",
+			"type": "image",
+			"name": "ui_clearing_png"
+		},
+		{
+			"url": "game/ui/ui_light02.png",
+			"type": "image",
+			"name": "ui_light02_png"
+		},
+		{
+			"url": "game/ui/btn_title01.png",
+			"type": "image",
+			"name": "btn_title01_png"
+		},
+		{
+			"url": "game/ui/btn_continue.png",
+			"type": "image",
+			"name": "btn_continue_png"
+		},
+		{
+			"url": "game/ui/btn_restart.png",
+			"type": "image",
+			"name": "btn_restart_png"
+		},
+		{
+			"url": "game/ui/btn_home02.png",
+			"type": "image",
+			"name": "btn_home02_png"
+		},
+		{
+			"url": "game/bg/map1.png",
+			"type": "image",
+			"name": "map1_png"
+		},
+		{
+			"url": "game/bg/map2.png",
+			"type": "image",
+			"name": "map2_png"
+		},
+		{
+			"url": "game/boyAni/textureBoy.json",
+			"type": "json",
+			"name": "textureBoy_json"
+		},
+		{
+			"url": "game/boyAni/textureBoy.png",
+			"type": "image",
+			"name": "textureBoy_png"
+		},
+		{
+			"url": "game/boyAni/boyAni.json",
+			"type": "json",
+			"name": "boyAni_json"
+		},
+		{
+			"url": "game/girlAni/girlAni.json",
+			"type": "json",
+			"name": "girlAni_json"
+		},
+		{
+			"url": "game/girlAni/textureGirl.json",
+			"type": "json",
+			"name": "textureGirl_json"
+		},
+		{
+			"url": "game/ui/Circle.png",
+			"type": "image",
+			"name": "Circle_png"
+		},
+		{
+			"url": "game/girlAni/textureGirl.png",
+			"type": "image",
+			"name": "textureGirl_png"
+		},
+		{
+			"url": "game/ui/Circle.png",
+			"type": "image",
+			"name": "Circle2_png"
+		},
+		{
+			"url": "game/mp3/bg.mp3",
+			"type": "sound",
+			"name": "bg_mp3"
+		},
+		{
+			"url": "game/mp3/btnClick.mp3",
+			"type": "sound",
+			"name": "btnClick_mp3"
+		},
+		{
+			"url": "game/mp3/lose.mp3",
+			"type": "sound",
+			"name": "lose_mp3"
+		},
+		{
+			"url": "game/mp3/que.mp3",
+			"type": "sound",
+			"name": "que_mp3"
+		},
+		{
+			"url": "game/mp3/rush.mp3",
+			"type": "sound",
+			"name": "rush_mp3"
+		},
+		{
+			"url": "game/mp3/win.mp3",
+			"type": "sound",
+			"name": "win_mp3"
+		},
+		{
+			"url": "game/ui/ui_sBubble02.png",
+			"type": "image",
+			"name": "ui_sBubble02_png"
+		},
+		{
+			"url": "game/ui/btn_jump02.png",
+			"type": "image",
+			"name": "btn_jump02_png"
+		},
+		{
+			"url": "game/bg/map3.png",
+			"type": "image",
+			"name": "map3_png"
+		}
+	]
+}

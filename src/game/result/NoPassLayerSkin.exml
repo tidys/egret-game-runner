@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="NoPassLayerSkin" width="960" height="540" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image x="00" y="0" source="map2_png"/>
+	<e:Rect fillAlpha="0.4" left="0" top="0" bottom="0" right="0"/>
+<e:Image source="ui_clearing_png" y="129" width="604" horizontalCenter="0" height="236"/>
+
+
+	<e:Label id="answerLabel" text="共答对15题, 耗时3分钟" y="260" horizontalCenter="0.5" textColor="0x000000"/>
+	<e:Label id="answerLabel0" text="很遗憾,您失败了" y="195" horizontalCenter="0.5" textColor="0x000000"/>
+
+
+
+
+	<e:Image id="shareBtn" source="btn_letKnow_png" x="615" y="423"/>
+	<e:Image id="home" source="btn_home_png" y="423" horizontalCenter="0"/>
+	<e:Image id="replayBtn" source="btn_again_png" x="153" y="423"/>
+
+	<e:Image source="font_fail_png" x="395" y="22"/>
+	<e:Image x="643" y="197" source="ui_fail_png"/>
+	<e:Label text="失败了不要怕，重新学习《图书馆读者指南》后再来" y="320" textColor="0x000000" size="22" horizontalCenter="0"/>
+</e:Skin>

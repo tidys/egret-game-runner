@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="ErrorAnswerLayerSkin" width="960" height="540" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Rect id="bg" fillAlpha="0.3" left="0" top="0" right="0" bottom="0" touchEnabled="true"/>
+
+	<e:Image source="ui_wrong_png" x="173" y="101" touchEnabled="false"/>
+
+	<e:Label id="text" text="确定" y="250" size="25" touchEnabled="false" horizontalCenter="0" textColor="0x000000" bold="true"/>
+</e:Skin>

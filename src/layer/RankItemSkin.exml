@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="RankItemSkin" width="524" height="60" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image id="bg" source="ui_common01_png" x="0" y="0" locked="true"/>
+
+	<e:Label id="rankLv" text="第1名" x="29" y="17" textColor="0x000000"/>
+	<e:Label id="nameLabel" text="称号" x="212" y="18" size="25" textColor="0x000000"/>
+	<e:Label id="timeLabel" text="10‘00" x="363" y="18" size="25" textColor="0x000000" bold="true" width="143" textAlign="left"/>
+	<e:Image id="icon" source="icon_no.01_png" x="32" y="11" visible="false"/>
+</e:Skin>

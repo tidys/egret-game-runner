@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="SetLayerSkin" width="960" height="540" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Rect fillAlpha="0.1" left="0" top="0" bottom="0" right="0"/>
+	<e:Image id="listBg" source="ui_listBg_png" y="91" horizontalCenter="-0.5" scale9Grid="34,178,7,17" width="575"/>
+	<e:Image source="ui_common03_png" y="78" horizontalCenter="0.5"/>
+
+
+
+
+	<e:Image source="btn_title01_png" y="70" horizontalCenter="0"/>
+	<e:Image id="replay" source="btn_restart_png" y="238" x="366"/>
+	<e:Image id="began" source="btn_continue_png" y="143" horizontalCenter="0"/>
+	<e:Image id="home" source="btn_home02_png" y="330" horizontalCenter="0"/>
+	<e:Image source="ui_common04_png" y="471" horizontalCenter="0"/>
+
+</e:Skin>

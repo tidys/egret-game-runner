@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="HomeLayerSkin" width="960" height="540" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image x="0" y="0" source="map1_png"/>
+	<e:Rect left="0" top="0" bottom="0" right="0" fillAlpha="0.5"/>
+
+
+
+
+
+
+	<e:Image id="beganBtn" source="btn_play_png" x="391" y="221"/>
+	<e:Image id="rankBtn" source="btn_rankList_png" x="391" y="405"/>
+	<e:Image id="descBtn" source="btn_state_png" x="391" y="315"/>
+	<e:Image source="logo_png" x="290" y="112"/>
+	<e:Image source="girl_png" x="105" y="59"/>
+</e:Skin>

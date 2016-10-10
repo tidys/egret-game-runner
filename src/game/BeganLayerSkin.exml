@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="BeganLayerSkin" width="960" height="540" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="block_png" top="0" bottom="0" left="0" right="0" alpha="0.2"/>
+	<e:Image id="bg" source="qy554_png" x="209" y="156" width="519" height="228" scale9Grid="65,25,4,3"/>
+	<e:Label text="欢迎来到&quot;图书馆竞答&quot;现场,快来展示你真正的实力" x="248" y="201" size="20"/>
+	<e:Image id="beganBtn" source="btn-play-game_png" x="395" y="312"/>
+</e:Skin>

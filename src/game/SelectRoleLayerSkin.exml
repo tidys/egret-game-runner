@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="SelectRoleLayerSkin" width="960" height="540" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image left="0" top="0" bottom="-0" right="0" source="map1_png"/>
+	<e:Rect left="0" top="0" right="0" bottom="0" fillAlpha="0.4" locked="true"/>
+
+
+
+
+
+
+	<e:Label text="请选择角色" x="412" y="10" textColor="0x000000" bold="true"/>
+
+
+	<e:Image id="roleSelectBoard1" source="ui_light_png" x="69" y="-2" height="577" visible="false" locked="true"/>
+	<e:Image id="roleSelectBoard2" source="ui_light_png" x="563" y="-2" height="577" visible="false" locked="true"/>
+	<e:Image id="began" source="btn_enter_png" y="465" horizontalCenter="31.5"/>
+</e:Skin>

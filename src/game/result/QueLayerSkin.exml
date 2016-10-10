@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="QueLayerSkin" width="960" height="540" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Rect fillAlpha="0.4" left="0" top="0" bottom="0" right="0"/>
+	<e:Group id="group" anchorOffsetX="480" anchorOffsetY="270" width="960" x="480" height="540" y="270">
+		<e:Image id="book" source="ui_topic_png" x="144" y="40"/>
+		<e:Label id="que" text="问题: “无中生有”属于三十六计中的" x="194" y="83" width="286" height="98" size="25" textColor="0x000000"/>
+		<e:Label id="labelA" text="A.胜战计" x="194" y="186" size="20" width="280" height="64" textColor="0x000000"/>
+		<e:Label id="labelB" text="B.敌战计" x="194" y="250" size="20" width="280" height="66" textColor="0x000000"/>
+		<e:Label id="labelC" text="C.攻战计" x="194" y="313" size="20" width="280" height="64" textColor="0x000000"/>
+		<e:Label id="labelD" text="D.混战计" x="194" y="377" size="20" width="280" height="65" textColor="0x000000"/>
+		<e:Image id="chooseD" source="btn_choseD_png" x="544" y="371"/>
+		<e:Image id="chooseC" source="btn_choseC_png" x="544" y="291"/>
+		<e:Image id="chooseB" source="btn_choseB_png" x="544" y="211"/>
+		<e:Image id="chooseA" source="btn_choseA_png" x="544" y="131"/>
+	</e:Group>
+</e:Skin>
